@@ -2,13 +2,11 @@
 
 import random
 from special_input import *
-"""
-	ask times
-"""
+
+print("This program simulates rolling several dice.")
+print("The user can choose how many dice are rolled.")
 howMany = int_input("How many dice would you like to roll? >")
-"""
-	ask how many side
-"""
+
 sides = int_input("How many sides on your die? >")
 
 for i in range (howMany):
