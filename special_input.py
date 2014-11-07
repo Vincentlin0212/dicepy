@@ -17,7 +17,11 @@ def int_input(prompt):
 		except ValueError:
 			print("That isn't a integer dude, please try again.")
 		
+
 def float_input(prompt):
+	"""
+		allow user to input integer
+	"""
 	while True:
 		answer = raw_input(prompt)
 		try:
