@@ -1,0 +1,1 @@
+This a program random number from 1~6 with a interesting question.
