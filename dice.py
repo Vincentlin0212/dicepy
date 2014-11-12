@@ -2,15 +2,10 @@
 
 import random
 from special_input import *
-<<<<<<< HEAD
+
 
 print("This program simulates rolling several dice.")
 print("The user can choose how many dice are rolled.")
-howMany = int_input("How many dice would you like to roll? >")
-
-sides = int_input("How many sides on your die? >")
-=======
->>>>>>> newFeature
 
 howMany = int_input("How many dice would you like to roll? >")
 a = 1
